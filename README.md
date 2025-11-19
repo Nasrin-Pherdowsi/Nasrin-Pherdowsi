@@ -16,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=E18AAA&label_color=E54AAFstyle=flat" />
 </p>
 
-<img src="https://img.shields.io/badge/Profile%20Views-2-E18AAA?labelColor=800080&style=flat" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-2-E18AAA?labelColor=800080&style=flat" />
+</p>
 
 ## Hi I'm Nasrin Pherdowsi 👋
 
