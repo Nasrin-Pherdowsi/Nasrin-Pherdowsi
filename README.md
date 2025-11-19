@@ -12,6 +12,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=E18AAA&label_color=E54AAFstyle=flat" />
+</p>
+
 
 
 ## Hi I'm Nasrin Pherdowsi 👋
