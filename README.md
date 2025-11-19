@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=570&size=28&pause=1000&color=E18AAA&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile🎀;Hi+there+👋🏻+I'm+Nasrin+Pherdowsi+!;Data+Scientist+in+the+making+🚀;AI/ML+enthusiast+🤖" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
+
+
 
 
 ## Hi I'm Nasrin Pherdowsi 👋
