@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=E18AAA&&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=800080&style=flat" />
+</p>
+
 
 
 
