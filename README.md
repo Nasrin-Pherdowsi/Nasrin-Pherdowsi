@@ -4,6 +4,11 @@
 </p>
 
 
+<p align ="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&color=00FF00&style=flat" />
+</p>
+
+
 
 ## Hi I'm Nasrin Pherdowsi 👋
 
