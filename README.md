@@ -3,36 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=570&size=28&pause=1000&color=E18AAA&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile🎀;Hi+there+👋🏻+I'm+Nasrin+Pherdowsi+!;Data+Scientist+in+the+making+🚀;AI/ML+enthusiast+🤖" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=E18AAA&&style=flat" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=800080&style=flat" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nasrin-Pherdowsi&label=Profile%20Views&color=E18AAA&label_color=E54AAFstyle=flat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-2-E18AAA?labelColor=800080&style=flat" />
-</p>
-
-<p align="center" style="background-color:black; padding:10px; border:2px solid #FF69B4; border-radius:8px; box-shadow:0 0 10px #FF69B4;">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://profile-views-counter-facqzo7ug-nasrin-pherdowsis-projects.vercel.app/Nasrin-Pherdowsi&label=Profile%20Views&query=value&color=E18AAA&labelColor=800080&style=flat" />
-</p>
-
-<p align="center" style="background-color:black; padding:10px; border:2px solid #FF69B4; border-radius:8px; box-shadow:0 0 12px #FF69B4;">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://profile-views-counter-facqzo7ug-nasrin-pherdowsis-projects.vercel.app/Nasrin-Pherdowsi&label=Profile%20Views&query=value&color=E18AAA&labelColor=800080&style=flat" />
-</p>
-
-<p align="center" style="background-color:black; padding:10px; border:2px solid #FF69B4; border-radius:8px; box-shadow:0 0 12px #FF69B4;">
-  <a href="https://github.com/Nasrin-Pherdowsi">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/nasrin-pherdowsi/profile_views&query=value&label=Profile%20Views&color=E18AAA&labelColor=800080&style=flat" />
-  </a>
-</p>
 
 ## Hi I'm Nasrin Pherdowsi 👋
 
