@@ -23,9 +23,17 @@
 
 ## 🌐 Connect with me + Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrin-pherdowsi-172196380/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/coderneph)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nasrinpherdowsi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/coderneph" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@nasrinpherdowsi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="40" width="40" />
+  </a>
+</p>
 
 
 
