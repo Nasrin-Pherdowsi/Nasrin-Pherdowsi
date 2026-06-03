@@ -1,4 +1,4 @@
-<!-- Animated Typing SVG -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=570&size=28&pause=1000&color=E18AAA&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+profile🎀;Hi+there+👋🏻+I'm+Nasrin+Pherdowsi+!;Data+Scientist+in+the+making+🚀;AI/ML+enthusiast+🤖" />
 </p>
@@ -26,7 +26,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nasrin-pherdowsi-172196380/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/coderneph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/coderneph" height="30" width="40" /></a>
-<a href="https://medium.com/@nasrinpherdowsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nasrinpherdowsi" height="30" width="40" /></a>
+<a href="https://medium.com/@nasrinpherdowsi" target="blank">
+  <img align="center" src="..." alt="@nasrinpherdowsi" height="30" width="40" />
+</a>
+
 </p>
 
 <div align ="center">
