@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45" />
   </a>
   <a href="https://www.kaggle.com/coderneph" target="_blank">
-    <img src="https://githubusercontent.com" alt="Medium Logo" width="32" height="32" alt="Kaggle" height="45" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="45" width="45" />
   </a>
   <a href="https://medium.com/@nasrinpherdowsi" target="_blank">
     <img src="https://githubusercontent.com" alt="Medium Logo" width="45" height="45" />
