@@ -28,7 +28,7 @@
 ## 🌐 Connect with me + Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/" target="_blank">
+  <a href="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/" >
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.kaggle.com/coderneph" target="_blank">
