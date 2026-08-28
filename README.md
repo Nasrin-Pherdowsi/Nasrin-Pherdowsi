@@ -75,19 +75,15 @@
 
 # 📊 GitHub Stats:
 
+## 📊 GitHub Stats & Overview:
+
 <p align="center">
-  <!-- Dynamic GitHub Stats Card (Alternative active API mirror) -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=Nasrin-Pherdowsi&show_icons=true&theme=tokyonight&hide_border=true" alt="Nasrin's GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=Nasrin-Pherdowsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/Nasrin-Pherdowsi?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/Nasrin-Pherdowsi?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
 </p>
 
 <p align="center">
-  <!-- Working GitHub Streak Stats Endpoint -->
-  <img src="https://streak-stats.demolab.com/?user=Nasrin-Pherdowsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Data%20Science-Python%20%7C%20Pandas%20%7C%20Scikit--Learn-blue?style=for-the-badge&logo=python" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=Nasrin-Pherdowsi&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
