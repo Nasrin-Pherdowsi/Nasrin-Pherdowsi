@@ -74,16 +74,8 @@
 
 
 # 📊 GitHub Stats:
-
-## 📊 GitHub Stats & Overview:
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Nasrin-Pherdowsi?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
-  <img src="https://img.shields.io/github/stars/Nasrin-Pherdowsi?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Python%20%7C%20Pandas%20%7C%20Scikit--Learn-blue?style=for-the-badge&logo=python" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasrin-Pherdowsi&theme=tokyonight" alt="Nasrin's Contribution Graph" width="100%" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
