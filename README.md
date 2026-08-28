@@ -74,12 +74,19 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nasrin-Pherdowsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nasrin-Pherdowsi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrin-Pherdowsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasrin-Pherdowsi&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <!-- Dynamic GitHub Stats Card (Alternative active API mirror) -->
+  <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=Nasrin-Pherdowsi&show_icons=true&theme=tokyonight&hide_border=true" alt="Nasrin's GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=Nasrin-Pherdowsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
+<p align="center">
+  <!-- Working GitHub Streak Stats Endpoint -->
+  <img src="https://streak-stats.demolab.com/?user=Nasrin-Pherdowsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Nasrin-Pherdowsi&icon=9&color=0)](https://visitcount.itsvg.in)
 
