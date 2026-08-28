@@ -77,7 +77,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nasrin-Pherdowsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nasrin-Pherdowsi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrin-Pherdowsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Nasrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasrin-Pherdowsi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nasrin-Pherdowsi&theme=tokyonight&hide_border=true)
 
 
 ---
