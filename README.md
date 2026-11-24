@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./sakura_banner_nasrin.gif" width="100%" alt="Sakura banner" style="border-radius: 10px;" />
+  <img src="./sakura_banner_nasrin.gif" width="100%" alt="Sakura banner" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
