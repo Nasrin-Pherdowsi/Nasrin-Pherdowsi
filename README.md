@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/">
-    <img src="https://img.shields.io/badge/LinkedIn-B0112B?style=for-the-badge&logo=linkedin&logoColor=FBE0E6" alt="LinkedIn" />
+    <img src="./assets/linkedin.svg" width="100" alt="LinkedIn" />
   </a>
 
   <a href="https://www.kaggle.com/coderneph">
