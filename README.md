@@ -1,9 +1,7 @@
 
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Nasrin-Pherdowsi/Nasrin-Pherdowsi/main/sakura_banner_4661f181.mp4" width="100%" controls style="border-radius: 22px;">
-    Your browser does not support the video tag.
-  </video>
+  <img src="./sakura_banner_nasrin.gif" width="100%" alt="Sakura banner" style="border-radius: 9px;" />
 </p>
 
 <p align="center">
