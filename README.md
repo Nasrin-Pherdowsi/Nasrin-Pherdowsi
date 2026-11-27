@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nasrin-pherdowsi-172196380/">
-    <img src="https://img.shields.io/badge/-B0112B?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZCRTBFNiI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhTMDUuNSA1IDYuNSA1czEuOC44IDEuOCAxLjgtLjggMS44LTEuOCAxLjh6bTEyLjUgMTAuM2gtM3YtNC43YzAtMS4xLS40LTEuOS0xLjQtMS45LS44IDAtMS4yLjUtMS40IDEtLjEuMi0uMS41LS4xLjh2NC44aC0zdi05aDIuOHYxLjJjLjQtLjYgMS4xLTEuNCAyLjctMS40IDIgMCAzLjUgMS4zIDMuNSA0LjF2NS4xeiIvPjwvc3ZnPg==&logoColor=FBE0E6" height="20" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-B0112B?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZCRTBFNiI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhTMDUuNSA1IDYuNSA1czEuOC44IDEuOCAxLjgtLjggMS44LTEuOCAxLjh6bTEyLjUgMTAuM2gtM3YtNC43YzAtMS4xLS40LTEuOS0xLjQtMS45LS44IDAtMS4yLjUtMS40IDEtLjEuMi0uMS41LS4xLjh2NC44aC0zdi05aDIuOHYxLjJjLjQtLjYgMS4xLTEuNCAyLjctMS40IDIgMCAzLjUgMS4zIDMuNSA0LjF2NS4xeiIvPjwvc3ZnPg==&logoColor=FBE0E6" height="100" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.kaggle.com/coderneph">
@@ -79,7 +79,8 @@
 
 # 🌸 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasrin-Pherdowsi&theme=tokyonight" alt="Nasrin's Contribution Graph" width="100%" />
+  <a href="https://github.com/Nasrin-Pherdowsi">
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Nasrin-Pherdowsi&bg_color=FFB8D3&area=true&area_color=FF6EA5&line=75002D&point=75002D&color=75002D&title_color=75002D&border_color=FF6EA5" alt="Nasrin's Contribution Graph" width="100%" />
+  </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
