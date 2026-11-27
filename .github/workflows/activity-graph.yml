@@ -1,0 +1,30 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Tokyo Night Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Nasrin-Pherdowsi
+          theme: tokyo-night
+          output: dist/activity-graph.svg
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/activity-graph.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update activity graph"
+          git push
