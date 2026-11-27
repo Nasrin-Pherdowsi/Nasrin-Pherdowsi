@@ -79,7 +79,7 @@
 
 # 🌸 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasrin-Pherdowsi&theme=tokyonight" alt="Nasrin's Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/E18AAA/Nasrin-Pherdowsi" alt="Nasrin's Contribution Graph" width="100%" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
